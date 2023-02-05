@@ -1,0 +1,372 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    background: #F6B5BF;
+
+}
+
+header{
+    width: 100%;
+    background: #F6B5BF;
+    height: 60px;
+}
+
+nav{
+    float: right;
+    padding-right: 60px;
+    padding-bottom: 0;
+    background: none;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 0 20px;
+    line-height: 60px;
+    font-size: 16px;
+    transition: all 1s;
+    background: none;
+}
+
+nav a:hover{
+    background-color: white;
+    transition: all 1s;
+    border-radius: 10px;
+    color: #F6B5BF;
+}
+
+
+
+.avion{
+    width: 600px;
+    height: auto;
+    padding-left: 790px;
+}
+
+h4{
+    position: fixed;
+    left: 200px;
+    top: 210px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 45%;
+    text-align: left;
+    font-size: 40px;
+    background: none;
+}
+
+h5{
+    position: fixed;
+    left: 200px;
+    top: 280px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 45%;
+    text-align: left;
+    font-size: 40px;
+    background: none;
+}
+
+h6{
+    position: fixed;
+    left: 200px;
+    top: 340px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 45%;
+    text-align: left;
+    font-size: 40px;
+    background: none;
+}
+
+.contacto1 img{
+    height: 40px;
+    width: auto;
+    position: fixed;
+    top: 350px;
+    left: 120px;
+}
+
+.contacto2 img{
+    height: 40px;
+    width: auto;
+    top: 440px;
+    left: 120px;
+    position: fixed;
+}
+
+.contacto3 img{
+    height: 40px;
+    width: auto;
+    top: 265px;
+    left: 120px;
+    position: fixed;
+}
+
+@media (max-width:1998.98px){
+
+}
+
+
+@media (max-width:991.98px){
+    .avion{
+        width: 600px;
+        height: 600px;
+        position: relative;
+        top: 300px;
+        right: 660px;
+        margin-bottom: 10px;
+    }
+
+    .contacto1 img{
+        height: 40px;
+        width: auto;
+        position: absolute;
+        top: 250px;
+        left: 120px;
+    }
+    
+    .contacto2 img{
+        height: 40px;
+        width: auto;
+        top: 340px;
+        left: 120px;
+        position: absolute;
+    }
+    
+    .contacto3 img{
+        height: 40px;
+        width: auto;
+        top: 165px;
+        left: 120px;
+        position: absolute;
+    }
+
+    h4{
+        position: relative;
+        left: 100px;
+        top: -860px;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        width: 45%;
+        text-align: left;
+        font-size: 40px;
+        background: none;
+    }
+    
+    h5{
+        position: relative;
+        left: 100px;
+        top: -885px;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        width: 45%;
+        text-align: left;
+        font-size: 40px;
+        background: none;
+    }
+    
+    h6{
+        position: relative;
+        left: 100px;
+        top: -935px;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        width: 45%;
+        text-align: left;
+        font-size: 40px;
+        background: none;
+    }
+}
+
+
+@media (max-width:600px){
+    nav{
+        float: right;
+        padding-bottom: 0;
+        background: none;
+        padding-right: 50px;
+    }
+    
+    nav a{
+        color: white;
+        text-decoration: none;
+        padding: 0 5px;
+        line-height: 60px;
+        font-size: 13px;
+        transition: all 1s;
+        background: none;
+    }
+    
+    nav a:hover{
+        background-color: white;
+        transition: all 1s;
+        border-radius: 10px;
+        color: #F6B5BF;
+    }
+
+    .avion{
+        width: 400px;
+        height: 400px;
+        position: absolute;
+        top: 280px;
+        right: 20px;
+    }
+
+    .contacto1 img{
+        height: 40px;
+        width: auto;
+        position: absolute;
+        top: 150px;
+        left: 70px;
+    }
+    
+    .contacto2 img{
+        height: 40px;
+        width: auto;
+        top: 230px;
+        left: 70px;
+        position: absolute;
+    }
+    
+    .contacto3 img{
+        height: 40px;
+        width: auto;
+        top: 80px;
+        left: 70px;
+        position: absolute;
+    }
+
+    h4{
+        position: relative;
+        left: 100px;
+        top: -620px;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        width: 45%;
+        text-align: left;
+        font-size: 20px;
+        background: none;
+    }
+    
+    h5{
+        position: relative;
+        left: 100px;
+        top: -610px;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        width: 45%;
+        text-align: left;
+        font-size: 20px;
+        background: none;
+    }
+    
+    h6{
+        position: relative;
+        left: 100px;
+        top: -600px;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        width: 45%;
+        text-align: left;
+        font-size: 20px;
+        background: none;
+    }
+}
+
+
+@media (max-width:401px){
+    nav{
+        float: right;
+        padding-bottom: 0;
+        background: none;
+        padding-right: 40px;
+    }
+    
+    nav a{
+        color: white;
+        text-decoration: none;
+        padding: 0 3px;
+        line-height: 60px;
+        font-size: 11px;
+        transition: all 1s;
+        background: none;
+    }
+    
+    nav a:hover{
+        background-color: white;
+        transition: all 1s;
+        border-radius: 10px;
+        color: #F6B5BF;
+    }
+
+    .avion{
+        width: 330px;
+        height: 400px;
+        position: absolute;
+        top: 280px;
+        right: 15px;
+    }
+
+    .contacto1 img{
+        height: 40px;
+        width: auto;
+        position: absolute;
+        top: 150px;
+        left: 50px;
+    }
+    
+    .contacto2 img{
+        height: 40px;
+        width: auto;
+        top: 230px;
+        left: 50px;
+        position: absolute;
+    }
+    
+    .contacto3 img{
+        height: 40px;
+        width: auto;
+        top: 80px;
+        left: 50px;
+        position: absolute;
+    }
+
+    h4{
+        position: relative;
+        left: 100px;
+        top: -550px;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        width: 45%;
+        text-align: left;
+        font-size: 18px;
+        background: none;
+    }
+    
+    h5{
+        position: relative;
+        left: 100px;
+        top: -530px;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        width: 45%;
+        text-align: left;
+        font-size: 18px;
+        background: none;
+    }
+    
+    h6{
+        position: relative;
+        left: 100px;
+        top: -520px;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        width: 45%;
+        text-align: left;
+        font-size: 18px;
+        background: none;
+    }
+
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_5" data-name="Layer 5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #9cc4e5;
+      }
+
+      .cls-3 {
+        fill: #85add5;
+      }
+
+      .cls-4 {
+        fill: #bbd8ef;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" width="800" height="800" rx="85.17" ry="85.17"/>
+  <rect class="cls-2" x="51" y="198" width="697.59" height="403.62"/>
+  <rect class="cls-1" x="75.5" y="223.65" width="648.6" height="352.33"/>
+  <polygon class="cls-2" points="588.17 474.28 604.5 549.44 620.56 509.93 661.42 497.72 588.17 474.28"/>
+  <rect class="cls-2" x="624.12" y="513.16" width="19.7" height="19.7"/>
+  <g>
+    <polygon class="cls-3" points="399.8 556.44 472.14 431.14 327.45 431.14 399.8 556.44"/>
+    <polygon class="cls-3" points="289.04 510.57 428.8 473.12 326.49 370.81 289.04 510.57"/>
+    <polygon class="cls-3" points="243.17 399.82 368.47 472.16 368.47 327.47 243.17 399.82"/>
+    <polygon class="cls-3" points="289.04 289.06 326.49 428.82 428.8 326.51 289.04 289.06"/>
+    <polygon class="cls-3" points="399.8 243.19 327.45 368.49 472.14 368.49 399.8 243.19"/>
+    <polygon class="cls-3" points="510.55 289.06 370.79 326.51 473.1 428.82 510.55 289.06"/>
+    <polygon class="cls-3" points="556.42 399.81 431.12 327.47 431.12 472.16 556.42 399.81"/>
+    <polygon class="cls-3" points="510.55 510.57 473.1 370.81 370.79 473.12 510.55 510.57"/>
+  </g>
+  <circle class="cls-4" cx="399.8" cy="399.81" r="71"/>
+</svg>

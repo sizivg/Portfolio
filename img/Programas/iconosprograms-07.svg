@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_4" data-name="Layer 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b8e1ff;
+        font-family: Roboto-Bold, Roboto;
+        font-size: 500px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #b8e1ff;
+        stroke-miterlimit: 10;
+        stroke-width: 44px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="23.5" y="23.5" width="753" height="753" rx="168.68" ry="168.68"/>
+  <text class="cls-1" transform="translate(186.25 585)"><tspan x="0" y="0">Id</tspan></text>
+</svg>

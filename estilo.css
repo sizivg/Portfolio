@@ -1,0 +1,451 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: #F6B5BF;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: white;
+    font-size: 170px;
+    padding-left: 450px;
+    padding-top: 230px;
+}
+
+h2{
+    color: white;
+    font-family: 'Nobile', sans-serif;
+    font-size: 110px;
+    font-weight: lighter;
+    padding-left: 4600px;
+    padding-top: 2px;
+
+}
+
+.circulo{
+    width: 30px;
+    height: auto;
+    position: absolute;
+    top: 350px;
+    left: 80px;
+    opacity: 60%;
+
+}
+
+h3{
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    float: left;
+    background: none;
+    opacity: 60%;
+}
+
+h4{
+    font-family: 'Nobile', sans-serif;
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    top: 150px;
+    left: 35px;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    float: left;
+    background: none;
+    opacity: 60%;
+
+}
+
+header{
+    width: 100%;
+    background: none;
+    height: 30px;
+}
+
+nav{
+    float: right;
+    padding-right: 60px;
+    padding-bottom: 0;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 0 20px;
+    line-height: 70px;
+    font-size: 20px;
+}
+
+nav a:hover{
+    background-color: white;
+    transition: all 1s;
+    border-radius: 10px;
+    color: #F6B5BF;
+    
+}
+
+@media (max-width:1998.98px){
+    h1{
+        color: white;
+        font-size: 140px;
+        padding-left: 550px;
+        padding-top: 250px;
+    }
+    
+    h2{
+        color: white;
+        font-family: 'Nobile', sans-serif;
+        font-size: 90px;
+        font-weight: lighter;
+        padding-left: 570px;
+        padding-top: 2px;
+    
+    }
+    
+    .circulo{
+    width: 30px;
+    height: auto;
+    position: absolute;
+    top: 280px;
+    left: 80px;
+    opacity: 60%;
+
+}
+
+h3{
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: 360px;
+    left: 50px;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    float: left;
+    background: none;
+    opacity: 60%;
+}
+
+h4{
+    font-family: 'Nobile', sans-serif;
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: 100px;
+    left: 35px;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    float: left;
+    background: none;
+    opacity: 60%;
+
+}
+
+}
+
+
+@media (max-width:1316.98px){
+    h1{
+        color: white;
+        font-size: 120px;
+        padding-left: 520px;
+        padding-top: 250px;
+    }
+    
+    h2{
+        color: white;
+        font-family: 'Nobile', sans-serif;
+        font-size: 75px;
+        font-weight: lighter;
+        padding-left: 540px;
+        padding-top: 2px;
+    
+    }
+
+}
+
+@media (max-width:1100.98px){
+    h1{
+        color: white;
+        font-size: 100px;
+        padding-left: 440px;
+        padding-top: 250px;
+    }
+    
+    h2{
+        color: white;
+        font-family: 'Nobile', sans-serif;
+        font-size: 65px;
+        font-weight: lighter;
+        padding-left: 460px;
+        padding-top: 2px;
+    
+    }
+
+}
+
+@media (max-width:991.98px){
+    h1{
+        color: white;
+        font-size: 100px;
+        padding-left: 250px;
+        padding-top: 300px;
+    }
+    
+    h2{
+        color: white;
+        font-family: 'Nobile', sans-serif;
+        font-size: 65px;
+        font-weight: lighter;
+        padding-left: 260px;
+        padding-top: 2px;
+    
+    }
+}
+
+
+@media (max-width:600px){
+    nav{
+        float: right;
+        padding-bottom: 0;
+        background: none;
+        padding-right: 50px;
+    }
+    
+    nav a{
+        color: white;
+        text-decoration: none;
+        padding: 0 5px;
+        line-height: 60px;
+        font-size: 13px;
+        transition: all 1s;
+        background: none;
+    }
+    
+    nav a:hover{
+        background-color: white;
+        transition: all 1s;
+        border-radius: 10px;
+        color: #F6B5BF;
+    }
+
+    h1{
+        color: white;
+        font-size: 60px;
+        padding-left: 170px;
+        padding-top: 150px;
+    }
+    
+    h2{
+        color: white;
+        font-family: 'Nobile', sans-serif;
+        font-size: 40px;
+        font-weight: lighter;
+        padding-left: 180px;
+        padding-top: 2px;
+    
+    }
+    
+    .circulo{
+        width: 14px;
+        height: auto;
+        position: absolute;
+        top: 250px;
+        left: 40px;
+        opacity: 60%;
+    
+    }
+    
+    h3{
+        color: white;
+        font-size: 30px;
+        position: absolute;
+        top: 300px;
+        left: 30px;
+        writing-mode: vertical-lr;
+        transform: rotate(180deg);
+        float: left;
+        background: none;
+        opacity: 60%;
+    }
+    
+    h4{
+        font-family: 'Nobile', sans-serif;
+        color: white;
+        font-size: 30px;
+        position: absolute;
+        top: 150px;
+        left: 20px;
+        writing-mode: vertical-lr;
+        transform: rotate(180deg);
+        float: left;
+        background: none;
+        opacity: 60%;
+    
+    }
+}
+
+@media (max-width:415px){
+    nav{
+        float: right;
+        padding-bottom: 0;
+        background: none;
+        padding-right: 20px;
+    }
+    
+    nav a{
+        color: white;
+        text-decoration: none;
+        padding: 0 3px;
+        line-height: 60px;
+        font-size: 11px;
+        transition: all 1s;
+        background: none;
+    }
+    
+    nav a:hover{
+        background-color: white;
+        transition: all 1s;
+        border-radius: 10px;
+        color: #F6B5BF;
+    }
+
+    h1{
+        color: white;
+        font-size: 40px;
+        padding-left: 90px;
+        padding-top: 100px;
+    }
+    
+    h2{
+        color: white;
+        font-family: 'Nobile', sans-serif;
+        font-size: 25px;
+        font-weight: lighter;
+        padding-left: 100px;
+        padding-top: 2px;
+    
+    }
+    
+    .circulo{
+        width: 10px;
+        height: auto;
+        position: absolute;
+        top: 305px;
+        left: 230px;
+        opacity: 60%;
+    
+    }
+    
+    h3{
+        color: white;
+        font-size: 25px;
+        position: absolute;
+        top: 300px;
+        left: 80px;
+        writing-mode: horizontal-tb;
+        transform: none;
+        float: left;
+        background: none;
+        opacity: 60%;
+    }
+    
+    h4{
+        font-family: 'Nobile', sans-serif;
+        color: white;
+        font-size: 25px;
+        position: absolute;
+        top: 295px;
+        left: 275px;
+        writing-mode: horizontal-tb;
+        transform: none;
+        background: none;
+        opacity: 60%;
+    
+    }
+}
+
+
+@media (max-width:372px){
+
+    nav{
+        float: right;
+        padding-bottom: 0;
+        background: none;
+        padding-right: 20px;
+    }
+    
+    nav a{
+        color: white;
+        text-decoration: none;
+        padding: 0 3px;
+        line-height: 60px;
+        font-size: 11px;
+        transition: all 1s;
+        background: none;
+    }
+    
+    nav a:hover{
+        background-color: white;
+        transition: all 1s;
+        border-radius: 10px;
+        color: #F6B5BF;
+    }
+
+    h1{
+        color: white;
+        font-size: 40px;
+        padding-left: 60px;
+        padding-top: 100px;
+    }
+    
+    h2{
+        color: white;
+        font-family: 'Nobile', sans-serif;
+        font-size: 25px;
+        font-weight: lighter;
+        padding-left: 70px;
+        padding-top: 2px;
+    
+    }
+    
+    .circulo{
+        width: 10px;
+        height: auto;
+        position: absolute;
+        top: 305px;
+        left: 200px;
+        opacity: 60%;
+    
+    }
+    
+    h3{
+        color: white;
+        font-size: 25px;
+        position: absolute;
+        top: 300px;
+        left: 60px;
+        writing-mode: horizontal-tb;
+        transform: none;
+        float: left;
+        background: none;
+        opacity: 60%;
+    }
+    
+    h4{
+        font-family: 'Nobile', sans-serif;
+        color: white;
+        font-size: 25px;
+        position: absolute;
+        top: 295px;
+        left: 245px;
+        writing-mode: horizontal-tb;
+        transform: none;
+        background: none;
+        opacity: 60%;
+    
+    }
+}
